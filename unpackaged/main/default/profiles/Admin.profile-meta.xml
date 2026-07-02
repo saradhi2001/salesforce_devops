@@ -3669,6 +3669,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>saradhi__c.user_names__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>test__c.class__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4117,6 +4122,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>UniversalAnomalyEventStore-Universal Anomaly Event Store Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>saradhi__c-saradhi Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>test__c-test Layout</layout>
